@@ -3,9 +3,12 @@
 Batch converts all Dekunu GPS csv logs in specified directory to csv files 
 formatted to be read by gSwoop
 
-You will need to change the default read.write directories which are set to:
+You will need to change the default read & write directories which are set to:
+
   read_dir = 'C:/Users/jones.cs/Documents/Dekunu/In/'
   out_dir = 'C:/Users/jones.cs/Documents/Dekunu/Out/'
+
+These folders need to already be present, this script will not create them!
 
 Steps necessary for conversion are:
 
