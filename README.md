@@ -1,7 +1,9 @@
 # Dekunu_to_gSwoop
 
 Batch converts all Dekunu GPS csv logs in specified directory to csv files 
-formatted to be read by gSwoop
+formatted to be read by gSwoop.
+
+You can access the raw Dekunu logs by connecting the device to your PC in USB mode.
 
 You will need to change the default read & write directories which are set to:
 
